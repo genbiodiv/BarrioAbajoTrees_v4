@@ -1,0 +1,8 @@
+parameter,value
+n_calibration,640.0
+asymptote_parameter,8.207346304081977
+rate_parameter,0.05348069371994278
+shape_parameter,0.9821772075942434
+in_sample_log_rse,0.27708926373265114
+smearing_factor,1.0391356169698045
+cv_log_rse,0.28991925237424376

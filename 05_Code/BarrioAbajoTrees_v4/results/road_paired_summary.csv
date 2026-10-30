@@ -1,0 +1,5 @@
+metric,paired_blocks_with_values,median_higher_order,median_local_secondary,median_paired_difference_higher_minus_local,blocks_higher_greater,blocks_local_greater,ties
+records_per_frontage_km,47,50.362034932279315,29.905200300379374,19.868681442511082,35,12,0
+diversity_q1,44,3.085016412461836,3.8946457081379977,-0.8456108192052525,15,27,2
+native_fraction_known,44,0.40476190476190477,0.27222222222222225,0.10831447963800905,24,16,4
+tree_form_carbon_Mg_per_frontage_km,47,2.5416748456760963,2.326045477484753,0.5090789383733902,26,21,0
