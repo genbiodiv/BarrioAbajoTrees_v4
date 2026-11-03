@@ -1,0 +1,37 @@
+check,observed,expected,tolerance,passed
+Unique individual IDs,1256.0,1256.0,0.0,True
+Approved block corrections,25.0,25.0,0.0,True
+Above Murillo records,772.0,772.0,0.0,True
+Below Murillo records,484.0,484.0,0.0,True
+Higher-order road records after correction,373.0,373.0,0.0,True
+Local/secondary road records after correction,722.0,722.0,0.0,True
+Road-unassigned records,161.0,161.0,0.0,True
+Road classes changed by block correction,8.0,8.0,0.0,True
+Residential records,148.0,148.0,0.0,True
+Tourist-cultural records,147.0,147.0,0.0,True
+Other context records,961.0,961.0,0.0,True
+Occupied sectors,17.0,17.0,0.0,True
+Occupied blocks,72.0,72.0,0.0,True
+Occupied grid cells,188.0,188.0,0.0,True
+murillo record total,1256.0,1256.0,0.0,True
+murillo carbon total,117.03374964327756,117.03374964327756,1e-09,True
+contexts record total,1256.0,1256.0,0.0,True
+contexts carbon total,117.03374964327755,117.03374964327756,1e-09,True
+sectors record total,1256.0,1256.0,0.0,True
+sectors carbon total,117.03374964327757,117.03374964327756,1e-09,True
+blocks record total,1256.0,1256.0,0.0,True
+blocks carbon total,117.03374964327756,117.03374964327756,1e-09,True
+grid record total,1256.0,1256.0,0.0,True
+grid carbon total,117.03374964327756,117.03374964327756,1e-09,True
+Whole origin total,1256.0,1256.0,0.0,True
+Whole species richness,81.0,81.0,0.0,True
+Tree-form point estimate (Mg C),117.03374964327756,117.03374966482598,1e-06,True
+Murillo block model units,81.0,81.0,0.0,True
+Murillo block model record total,1256.0,1256.0,0.0,True
+Murillo negative-binomial convergence,1.0,1.0,0.0,True
+Paired-road inference blocks,47.0,47.0,0.0,True
+Road sensitivity 25 m higher-order records,373.0,373.0,0.0,True
+Road sensitivity 25 m local records,722.0,722.0,0.0,True
+Grid sensitivity 20 x 20 clipped cells,258.0,258.0,0.0,True
+Grid sensitivity 20 x 20 occupied cells,188.0,188.0,0.0,True
+Coverage-standardized diversity rows,18.0,18.0,0.0,True

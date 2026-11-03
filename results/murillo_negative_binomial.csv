@@ -1,0 +1,2 @@
+model,comparison,blocks,blocks_above,blocks_below,coefficient_log_rate_ratio,HC3_standard_error,rate_ratio,rate_ratio_95pct_lower,rate_ratio_95pct_upper,wald_z,wald_p,dispersion_alpha,log_likelihood,converged
+Negative binomial count model with log(block perimeter km) offset,Above Murillo vs Below Murillo,81,38,43,0.7041494784014781,0.2250753789206205,2.022126091409418,1.3008395216346826,3.1433500147814932,3.1285051336060055,0.0017569794177829104,0.8057866430698578,-291.643128749098,True
